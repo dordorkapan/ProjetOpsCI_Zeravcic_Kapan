@@ -1,1 +1,1 @@
-# ProjetOpsCI_Zeravcic_Kapan
+# ProjetOpsCI/ Zeravcic et Kapan
